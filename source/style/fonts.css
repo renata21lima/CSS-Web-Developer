@@ -1,20 +1,20 @@
 @font-face {
     font-family: "Raleway"; /*nome da fonte*/
-    src: url(/source/assets/fonts/Raleway/static/Raleway-Regular.ttf); /*caminho da fonte*/
+    src: url(source/assets/fonts/Raleway/static/Raleway-Regular.ttf); /*caminho da fonte*/
     font-weight: 400; /*peso da fonte*/
     font-style: normal; /*estilo da fonte  (normal, italic, etc.)*/
 }
 
 @font-face {
     font-family: "Raleway Bold"; /*nome da fonte*/
-    src: url(/source/assets/fonts/Raleway/static/Raleway-Bold.ttf); /*caminho da fonte*/
+    src: url(source/assets/fonts/Raleway/static/Raleway-Bold.ttf); /*caminho da fonte*/
     font-weight: 700; /*peso da fonte*/
     font-style: normal; /*estilo da fonte  (normal, italic, etc.)*/
 }
 
 @font-face {
     font-family: "Raleway Black"; /*nome da fonte*/
-    src: url(/source/assets/fonts/Raleway/static/Raleway-Black.ttf); /*caminho da fonte*/
+    src: url(source/assets/fonts/Raleway/static/Raleway-Black.ttf); /*caminho da fonte*/
     font-weight: 900; /*peso da fonte*/ 
     font-style: normal; /*estilo da fonte  (normal, italic, etc.)*/
 }
